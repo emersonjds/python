@@ -1,1 +1,1 @@
-print("Go Python")
+print("Python")
