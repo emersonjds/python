@@ -1,1 +1,1 @@
-print("Change configs")
+print("Change")
