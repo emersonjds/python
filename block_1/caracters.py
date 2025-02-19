@@ -33,3 +33,5 @@ print(nome.find("b"))
 print(nome.isnumeric())
 # output = False
 
+input("Press Enter to continue...")
+#Receive a input from user
