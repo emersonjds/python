@@ -26,3 +26,10 @@ print(nome.replace("R", "P"))
 
 print(nome.split("b"))
 # output = ['Ro', 'ert']
+
+print(nome.find("b"))
+# output = What position it's letter b 2 
+
+print(nome.isnumeric())
+# output = False
+
