@@ -33,5 +33,8 @@ print(nome.find("b"))
 print(nome.isnumeric())
 # output = False
 
-input("Press Enter to continue...")
+userMsg=input("Press Enter to continue...")
 #Receive a input from user
+
+print("You pressed: " + userMsg)
+# output = You pressed: [user input]
