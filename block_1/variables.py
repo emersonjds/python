@@ -1,5 +1,4 @@
 nome="Emerson"
-name="Maria"
 
 print(nome)
 
