@@ -1,1 +1,1 @@
-print("matplolib")
+print("studies")
