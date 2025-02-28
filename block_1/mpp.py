@@ -1,1 +1,1 @@
-print("studies")
+print("Python")
