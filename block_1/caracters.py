@@ -28,7 +28,7 @@ print(nome.split("b"))
 # output = ['Ro', 'ert']
 
 print(nome.find("b"))
-# output = What position it's letter b 2 
+# output = What position it's letter b 2
 
 print(nome.isnumeric())
 # output = False
@@ -37,4 +37,7 @@ userMsg=input("Press Enter to continue...")
 #Receive a input from user
 
 print("You pressed: " + userMsg)
+# output = You pressed: [user input]
+
+print("You pressed: " + str(userMsg))
 # output = You pressed: [user input]
